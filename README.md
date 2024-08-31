@@ -27,7 +27,7 @@ We can then imagine that as soon as a process starts, we see this image:
 
 References
 
-1 - Operating Systems by José Alves Marques | Paulo Ferreira | Carlos Ribeiro | Luís Veiga | Rodrigo Rodrigues"
+1 - Operating Systems by José Alves Marques | Paulo Ferreira | Carlos Ribeiro | Luís Veiga | Rodrigo Rodrigues
 
 
 
